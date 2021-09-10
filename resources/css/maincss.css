@@ -1,0 +1,48 @@
+	.Title	{
+		font-size: 50px
+	
+	
+		}
+		.Title {
+			font-size: 30px;
+		}
+		.Category {
+			  display: block;
+  margin-left: auto;
+  margin-right: 90%;	
+  width: 50%;
+		
+		}
+		.Category {
+			border-style: solid;}
+		.Category {
+			width: 200px;
+		height: 200px;
+ }
+		.categorytxt {
+		color:black;
+        text-align: center;
+			border-style: solid;
+			width: 220px;
+		 display: inline-block;
+		}
+		.hvite {
+			width: 700px;
+			margin-right: auto;
+			margin-left: 400px;
+			border-style: solid;
+			border-color: black;
+		}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: yellowgreen;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
